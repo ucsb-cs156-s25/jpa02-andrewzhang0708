@@ -1,7 +1,7 @@
 # jpa02-andrewzhang0708
 
 
-Repo: https://ucsb-cs156-s25/jpa02-andrewzhang0708
+Repo: https://github.com/ucsb-cs156-s25/jpa02-andrewzhang0708
 
 Deployed at: https://jpa02-andrewzhang0708.dokku-14.cs.ucsb.edu/
 
